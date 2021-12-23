@@ -6,6 +6,7 @@ CPU Raytracing (C++)
   
 ### Result:
 ![image](https://github.com/Oitron/Raytracing/blob/master/output/scene_01.png)
+![image](https://github.com/Oitron/Raytracing/blob/master/output/scene_02.ppm)
 
 Source:  
 https://raytracing.github.io/books/RayTracingInOneWeekend.html  
