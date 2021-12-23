@@ -9,3 +9,7 @@ CPU Raytracing (C++)
 
 Source:  
 https://raytracing.github.io/books/RayTracingInOneWeekend.html  
+https://en.wikipedia.org/wiki/Schlick%27s_approximation  
+https://en.wikipedia.org/wiki/Snell%27s_law  
+https://en.wikipedia.org/wiki/Total_internal_reflection  
+https://github.com/miloyip/svpng/blob/master/svpng.inc  
